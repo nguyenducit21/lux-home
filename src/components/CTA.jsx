@@ -6,7 +6,7 @@ const CTA = () => (
         <Container>
             <h2 className="display-6 fw-bold mb-4 animate-slide-up">Bắt đầu với LUXHOME ngay hôm nay!</h2>
             <p className="fs-5 mb-4 animate-slide-up">Dùng thử miễn phí hoặc nhận tư vấn giải pháp trọn gói.</p>
-            <InputGroup className="justify-content-center mb-4" style={{ maxWidth: '28rem' }}>
+            <InputGroup className="email mb-4" style={{ maxWidth: '28rem' }}>
                 <FormControl
                     type="email"
                     placeholder="Nhập email của bạn"

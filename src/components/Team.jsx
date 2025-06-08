@@ -4,22 +4,34 @@ import { Container, Row, Col, Card } from 'react-bootstrap';
 const Team = () => {
     const teamMembers = [
         {
-            name: 'Nguyễn Văn A',
-            role: 'Founder & CEO',
-            description: 'Chuyên gia IoT với 10 năm kinh nghiệm, dẫn dắt chiến lược phát triển sản phẩm.',
-            image: './public/images/image.jpg',
+            name: 'Trần Anh Tuấn',
+            role: 'CEO & CTO',
+            description: 'Lãnh đạo và định hướng công ty. Quản lý chính bộ phận kỹ thuật',
+            image: './public/images/team/tuan.png',
         },
         {
-            name: 'Trần Thị B',
-            role: 'CTO',
-            description: 'Chuyên gia phần mềm, thiết kế hệ thống tích hợp đa nền tảng cho LUXHOME.',
-            image: './public/images/image.jpg',
+            name: 'Nguyễn Bá Đức',
+            role: 'CPO',
+            description: 'Quản lý chiến lược và phát triển sản phẩm, làm việc với đội ngũ kỹ thuật',
+            image: './public/images/team/duc.png',
         },
         {
-            name: 'Lê Văn C',
-            role: 'Lead Engineer',
-            description: 'Chuyên gia điện tử, đảm bảo chất lượng phần cứng và tích hợp thiết bị.',
-            image: './public/images/image.jpg',
+            name: 'Nguyễn Quang Nghĩa',
+            role: 'CSO ',
+            description: 'Bảo đảm an toàn thông tin và an ninh mạng',
+            image: './public/images/team/nghia.png',
+        },
+        {
+            name: 'Phạm Mai Chi',
+            role: 'CMO',
+            description: 'Xây dựng chiến lược tiếp thị. Quản lý và lãnh đạo nhóm bán hàng. Nghiên cứu thị trường.',
+            image: './public/images/team/chi.png',
+        },
+        {
+            name: 'Chu Quỳnh Trang',
+            role: 'CFO',
+            description: 'Quản lý nguồn tài chính của doanh nghiệp thông qua việc nghiên cứu, phân tích các kế hoạch tài chính',
+            image: './public/images/team/trang.png',
         },
     ];
 
