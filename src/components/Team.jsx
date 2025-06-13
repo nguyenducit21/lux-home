@@ -7,31 +7,31 @@ const Team = () => {
             name: 'Trần Anh Tuấn',
             role: 'CEO & CTO',
             description: 'Lãnh đạo và định hướng công ty. Quản lý chính bộ phận kỹ thuật',
-            image: './public/images/team/tuan.png',
+            image: './images/team/tuan.png',
         },
         {
             name: 'Nguyễn Bá Đức',
             role: 'CPO',
             description: 'Quản lý chiến lược và phát triển sản phẩm, làm việc với đội ngũ kỹ thuật',
-            image: './public/images/team/duc.png',
+            image: './images/team/duc.png',
         },
         {
             name: 'Nguyễn Quang Nghĩa',
             role: 'CSO ',
             description: 'Bảo đảm an toàn thông tin và an ninh mạng',
-            image: './public/images/team/nghia.png',
+            image: './images/team/nghia.png',
         },
         {
             name: 'Phạm Mai Chi',
             role: 'CMO',
             description: 'Xây dựng chiến lược tiếp thị. Quản lý và lãnh đạo nhóm bán hàng. Nghiên cứu thị trường.',
-            image: './public/images/team/chi.png',
+            image: './images/team/chi.png',
         },
         {
             name: 'Chu Quỳnh Trang',
             role: 'CFO',
             description: 'Quản lý nguồn tài chính của doanh nghiệp thông qua việc nghiên cứu, phân tích các kế hoạch tài chính',
-            image: './public/images/team/trang.png',
+            image: './images/team/trang.png',
         },
     ];
 

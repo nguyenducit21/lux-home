@@ -7,7 +7,8 @@ const Navbar = () => {
             <Container>
                 <BootstrapNavbar.Brand href="#">
                     <img
-                        src="/images/logo2.png"
+                        className='img-navbar'
+                        src="./images/logo2.png"
                         alt="LUXHOME Logo"
                         style={{ height: '120px', width: 'auto' }}
                     />

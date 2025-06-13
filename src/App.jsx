@@ -8,10 +8,12 @@ import Benefits from './components/Benefits';
 import SocialProof from './components/SocialProof';
 import CTA from './components/CTA';
 import Footer from './components/Footer';
+import MessengerIcon from './components/MessengerIcon';
 
 const App = () => (
   <div className="content">
     <Navbar />
+    <MessengerIcon />
     <Banner />
     <section id="intro">
       <ProjectIntro />
